@@ -1,4 +1,6 @@
 # informatica_basica_project1
-## Miembros del equipo
-_Alonso,Carlos y Miquel_
+## Jefe
+_Miquel_
+### Miembros
+_Alonso y Carlos_
  
